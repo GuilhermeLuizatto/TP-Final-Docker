@@ -1,2 +1,27 @@
-# TP-Final-DOcker
+# TP-Final-Docker
+
+TP FINAL DOCKER COMPOSE
+Guilherme Luizatto – 222773
+Kauã Pimentel - 223695
+1.	CRIAR INDEX.HTML E DOCKERFILE
+ <img width="603" height="330" alt="image" src="https://github.com/user-attachments/assets/b4f67be2-eed4-490e-a7f7-418b43c37b4d" />
+
+  
+2.	BUILDAR IMAGEM CUSTOMIZADA 
+ 
+3.	CRIAR DOCKER-COMPOSE.YML com dois serviços
+ 
+
+4.	SUBIR TUDO COM DOCKER-COMPOSE UP
+ 
+5.	TESTAR NOS NAVEGADFORES LOCALHOST (8080,8081)
+8080:  
+8081:
+ 
+6.	EXPLORAR COMANDOS EXTRAS (LOGS, PS, EXEC)
+  
+ 
+7.	FINALIZAR COM DOCKER COMPOSE DOWN
+ 
+
 
